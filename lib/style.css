@@ -1,0 +1,12 @@
+button{
+    opacity: 50%;
+    height: 50px;
+    transition: 1s;
+    transform: scale(1.0);
+}
+button:hover{
+opacity: 100%;
+height: 100px;
+transition: 1s;
+transform: scale(1.2);
+}
