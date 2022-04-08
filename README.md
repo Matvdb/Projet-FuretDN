@@ -5,10 +5,10 @@
 * Présentation de la structure de données
 * Présentation de la structure du programme
 * Présentation des fonctionnalités du programme
-* Démonstration d'un exemple de fonctionnement
-__Mettre en gras un texte__
-
-*metre en italique*
+* Démonstration d'un exemple de fonctionnement  
+--------------------------
+### Présentation du projet  
+#### ducfducn
 
 sfjkdvnujfvnvn  deux espace pour reveir a la ligne
 
