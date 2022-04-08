@@ -24,12 +24,10 @@
 #### Enfin, le 'main' servira en simplement 4 à 5 lignes, à lancer le programme, permettre la connexion au serveur, et arrêter le programme.  
 
 ### Cette documentation a expliqué les bases de ce projet, autour de quoi il tournait et ces objectifs. Je vous invite désormais à visiter mon trello pour y voir l'organisation des différentes tâches, et à essayer ce projet s'il vous intéresse.
-
-mettre un lien  
+  
 Mon trello [Trello](https://trello.com/b/IW5U8g6P/projet-dart-sql)  
-
-Mettre une image  
-mon image ![Furet-du-Nord](https://www.centre-commercial.fr/cite-europe/wp-content/uploads/sites/40/2015/01/logo-carrefour-furet-du-nord.png)  
+  
+![Furet-du-Nord](https://www.centre-commercial.fr/cite-europe/wp-content/uploads/sites/40/2015/01/logo-carrefour-furet-du-nord.png)  
 
 # Projet-Furet-du-Nord
 # Furet
