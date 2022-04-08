@@ -12,8 +12,8 @@ class BdAuteur {
       MySqlConnection conn =
           await MySqlConnection.connect(DbConfig.getSettings());
       try {
-        String requete = "SELECT * FORM Auteur WHERE id=" +
-            id.toString() +
+        String requete = "SELECT * FROM Auteur WHERE auteur=" +
+            auteur.toString() +
             " AND EXISTS (SELECT id FORM Auteur WHERE id=" +
             id.toString() +
             " );";
@@ -75,17 +75,12 @@ class BdAuteur {
     }
   }
 
-  static Future<void> updateAuteur(
-      ConnectionSettings settings, int auteur, String prenom) async {
+  static Future<void> updateAuteur(ConnectionSettings settings, int id) async {
     try {
       MySqlConnection conn =
           await MySqlConnection.connect(DbConfig.getSettings());
       try {
-        String requete = "UPDATE Auteurs SET nom = '" +
-            prenom +
-            ", prenom = '" +
-            auteur.toString() +
-            "'";
+        String requete = "UPDATE Auteurs SET id = '" + id.toString() + "'";
         await conn.query(requete);
       } catch (e) {
         log(e.toString());
