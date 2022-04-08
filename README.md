@@ -27,7 +27,7 @@
   
 Mon trello [Trello](https://trello.com/b/IW5U8g6P/projet-dart-sql)  
   
-       ![Furet-du-Nord](https://www.centre-commercial.fr/cite-europe/wp-content/uploads/sites/40/2015/01/logo-carrefour-furet-du-nord.png)  
+![Furet-du-Nord](https://www.centre-commercial.fr/cite-europe/wp-content/uploads/sites/40/2015/01/logo-carrefour-furet-du-nord.png)  
 
 # Projet-Furet-du-Nord
 # Furet
